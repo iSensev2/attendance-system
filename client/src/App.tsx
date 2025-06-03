@@ -1,4 +1,3 @@
-import React from "react";
 import ClockInButton from "./components/ClockInButton";
 
 function App() {
